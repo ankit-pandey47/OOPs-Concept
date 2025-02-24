@@ -21,6 +21,10 @@ class Vehicle {
 class Bike extends Vehicle {
     // it has now price and wheel and show()
     String color = "red";
+
+    void show() {
+        System.out.println("I am show of Bike with price : " + price);
+    }
 }
 
 // multilevel Inheritence

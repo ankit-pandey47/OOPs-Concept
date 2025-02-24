@@ -7,8 +7,6 @@
 // Three types of Constructor
 // 1> Default Constructor       2> Parametrized  Constructor     3> Copy Constructor
 
-//A copy constructor in Java is a special constructor used to create a new object by copying the properties of an existing object.
-
 class Animal {
     int age = 10;
 
